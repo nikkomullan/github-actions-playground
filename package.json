@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-playground",
+  "version": "1.0.0",
+  "description": "Github Actions Playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasmartinezullan/github-actions-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasmartinezullan/github-actions-playground/issues"
+  },
+  "homepage": "https://github.com/nicolasmartinezullan/github-actions-playground#readme",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
